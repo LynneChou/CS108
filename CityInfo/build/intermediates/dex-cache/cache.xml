@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_005238db6ae44f33de5c5db701461e5f7cff3405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8607ce25b3cc2aa10536566dd65e9f20b659de95">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1b1a21d87c0e75a95583ba7725a431a517cbdc7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_ac6d82a1c1e5608fc5db0cc90801ac7272663ef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_05a6032265814347bcbd30863aff9bd5132a34cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_84fc8d64c41004569a7913dfcac85bdfd72ba278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_549387a46a1bc13a41b3cc9f7564b050d87353ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_557445a06c60aa3499a25260d2b20ff376cd2c7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_8814c4587b9c836854927c6149e05ee1e1a0429f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50eb72942708ec743aa111da4c402776cff50806">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4d8bd28750a8233752cff3aa6e1e76bc76acca11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_eba4a752b63bc980cdf84375942c67b074ee08f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_3777c24555a230aa980f19419b56769e3875218a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_67a16e676ee745efaf86e463eaf79c2b7c4f0091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="134158b936656b906d2f3dd1377881cfda4ec1ca">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e2606729f9df5afbbec5ab9935042bd9f9a88967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_a989375419df637d5c082a33fa1e9eccc8f111f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_8ad868b463d67de9df6017473cb75fad95458290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_380be45b17dc6a30ad7d2090c58d0aa42362c6c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_8de62db295297b294758faab582ddb327825e202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_ab129924db7c481e8b1fac7b61d33f0eb0507e50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d704464225e5dd937eb6ff0591fa25bb391ee1f">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5840f269277739fbb0d107723b67d51400e3de0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_48f0c860c06be67a31b3d71186f9284b98487016/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_1690bd1b1cf9a33a61bd8822acae8e88ff81ec33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_68920eb6894d6560613a3f06707bf76b7042c0a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_bd39f12d695c90904c1545b4084b910bd15ceccd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_e3624ce41b1c325302a399f85cfb343071fe1866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_99847d4c24d97b341871c27542baa69b9bbbd393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_08298185e6ba800eb994dfe77b67b24eccb0a3e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47955da58352062660d84fc5d01db2a7c0d97c6b">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b792f0daee07d930544e511a7d7986df96816a9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_9d242e843bc5f69e204e98dde2593927e3a92f8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_79d4967637f47d52a15f518d546dd3bc28f47816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/HW4/RaoZhang_hw4SudokuDB/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_3f03b4e61c34d27af3292f809bece9d4660968d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_aef9ba6b8a54089c6d8ffccb20186a46cafbd83c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1c99d0045621142e01c5e22e7b1c902c54e89ba">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3b2352babe79ed969a1f9d8228fd0e6e4c64935c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/zhangrao/AndroidStudioProjects/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_e38d7f10303e1d7650e92d2345b7c83c915bb9f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/zhangrao/Documents/Currently/CS108/L09 Adapter Examples/CityInformation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_c16706b4183191051e6dfce5b8c932990e1123cd/classes.dex" />
+    </item>
+
+</items>
