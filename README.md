@@ -1,3 +1,3 @@
 # CS108
 ## Stanford CS108 Object Oriented Programming
-![img-w15](pic/MobileDraw.png)
+<img src="pic/MobileDraw.png" width="20" alt="MobileDraw"/>
