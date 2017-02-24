@@ -5,9 +5,9 @@
 ### Tetris
 <img src="pic/Tetris.png" width="250" alt="Tetris"/>
 ### Sudoku
-<img src="pic/Sudoku.png" width="400" alt="Sudoku"/>
+<img src="pic/Sudoku.png" width="300" alt="Sudoku"/>
 ### CityInfo
-<img src="pic/CityInfo.png" width="250" alt="CityInfo"/>
+<img src="pic/CityInfo.png" width="500" alt="CityInfo"/>
 ### ShippingCalculator
 <img src="pic/ShippingCalculator.png" width="250" alt="ShippingCalculator"/>
 ### ShoppingList
