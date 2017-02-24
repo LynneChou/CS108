@@ -1,3 +1,3 @@
 # CS108
 ## Stanford CS108 Object Oriented Programming
-![](pic/MobileDraw.png)
+![](pic/MobileDraw.png = 100)
